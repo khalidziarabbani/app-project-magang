@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div>
-      <Header />
+      <Header author="Header TEST"/>
       <button onClick={increment}>Increment ({count})</button>
     </div>
   );
